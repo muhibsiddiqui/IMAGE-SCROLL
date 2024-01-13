@@ -46,4 +46,4 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
+This project is licensed under the [MIT License](https://github.com/muhibsiddiqui/IMAGE-SCROLL/blob/main/LICENSE). Feel free to use, modify, and distribute the code as needed.
