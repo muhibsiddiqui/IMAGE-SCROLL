@@ -2,14 +2,6 @@
 
 A simple scrolling photo gallery with next and previous navigation buttons, designed for an engaging user experience.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Welcome to the Scroll Gallery repository! This project showcases a visually appealing photo gallery that allows users to scroll through images using either the mouse wheel or navigation buttons. The gallery is designed to provide an interactive and dynamic viewing experience for your images.
@@ -20,17 +12,6 @@ Welcome to the Scroll Gallery repository! This project showcases a visually appe
 - CSS
 - JavaScript
 
-## Usage
-
-To use the Scroll Gallery, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-git clone https://github.com/muhibsiddqui/scroll-gallery.git
-2. Open the `index.html` file in your preferred web browser.
-
-3. Scroll through the gallery using the mouse wheel or click the next and previous buttons.
-
-Feel free to customize the gallery by replacing the placeholder images (`image1.jpg`, `image2.jpg`, etc.) with your own images.
 
 ## Features
 
